@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+todoist_toolkit.egg-info/PKG-INFO
+todoist_toolkit.egg-info/SOURCES.txt
+todoist_toolkit.egg-info/dependency_links.txt
+todoist_toolkit.egg-info/entry_points.txt
+todoist_toolkit.egg-info/requires.txt
+todoist_toolkit.egg-info/top_level.txt
