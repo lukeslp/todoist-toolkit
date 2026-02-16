@@ -9,7 +9,7 @@ description = "Command-line toolkit for Todoist task management"
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [
-    {name = "Luke Steuber", email = "luke@lukesteuber.com"},
+    {name = "Luke Steuber", email = "luke@dr.eamer.dev"},
 ]
 keywords = [
     "todoist",
