@@ -1,6 +1,7 @@
 LICENSE
 README.md
 pyproject.toml
+todoist_cli.py
 todoist_toolkit.egg-info/PKG-INFO
 todoist_toolkit.egg-info/SOURCES.txt
 todoist_toolkit.egg-info/dependency_links.txt

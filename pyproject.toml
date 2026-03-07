@@ -46,6 +46,5 @@ Issues = "https://github.com/lukeslp/todoist-toolkit/issues"
 todoist = "todoist_cli:main"
 todoist-toolkit = "todoist_cli:main"
 
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["*"]
+[tool.setuptools]
+py-modules = ["todoist_cli"]
