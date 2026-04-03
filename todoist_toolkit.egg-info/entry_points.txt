@@ -1,3 +1,0 @@
-[console_scripts]
-todoist = todoist_cli:main
-todoist-toolkit = todoist_cli:main
